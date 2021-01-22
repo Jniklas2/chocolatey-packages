@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>xmind-2020</id>
-    <version>10.3.0.20210103</version>
+    <version>10.3.1</version>
     <packageSourceUrl>https://github.com/cconrad/chocolatey-packages/tree/master/manual/xmind-2020</packageSourceUrl>
     <owners>claus</owners>
     <!-- == SOFTWARE SPECIFIC SECTION == -->
