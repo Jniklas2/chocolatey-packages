@@ -1,8 +1,8 @@
 $ErrorActionPreference = 'Stop';
 
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://dl3.xmind.net/XMind-2020-for-Windows-32bit-10.3.0-202012160334.exe'
-$url64      = 'https://dl3.xmind.net/XMind-2020-for-Windows-64bit-10.3.0-202012160243.exe'
+$url        = 'https://dl3.xmind.net/XMind-2020-for-Windows-32bit-10.3.1-202101070059.exe'
+$url64      = 'https://dl3.xmind.net/XMind-2020-for-Windows-64bit-10.3.1-202101070032.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
